@@ -17,5 +17,4 @@ fs.watch(filename, () => {
   })
 })
 
-
 console.log('Now watching' + filename + 'for changes...')
